@@ -1,2 +1,3 @@
-# blink-detection
-Count the number of blinks a person makes on a camera
+# blink-detectionT
+his project is capable of detecting eye blinks using Facial Landmarks by using the eye aspect ratio (EAR).The Document Scanner can detect and scan documents using images taken by Smartphones by using perspective transform.
+
